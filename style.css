@@ -1,10 +1,14 @@
 h1 {font-style:italic;
     color: rgb(0, 0, 0);
-    background-color: rgb(164, 202, 233)
+    background-color: rgb(164, 202, 233);
+    margin: 25px;
+    width: 800px;
 }
 
- h3 {font-style: italic;
-         color: rgb(255, 255, 255)
+ h3 {
+     font-style: italic;
+     color: rgb(255, 255, 255);
+     margin: 25px;
 }
 
 body {
@@ -14,8 +18,10 @@ body {
    
  p {
      color: rgb(255, 255, 255);
+     width: 800px;
 }
 
  ul {
+     margin: 40px;
      color: rgb(255, 255, 255);
 }
