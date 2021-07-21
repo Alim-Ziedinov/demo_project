@@ -2,7 +2,7 @@ h1 {font-style:italic;
     color: rgb(0, 0, 0);
     background-color: rgb(164, 202, 233);
     margin: 25px;
-    width: 800px;
+    width: 500px;
 }
 
  h3 {
@@ -18,10 +18,12 @@ body {
    
  p {
      color: rgb(255, 255, 255);
-     width: 800px;
+     width: 400px;
+     
 }
 
  ul {
      margin: 40px;
      color: rgb(255, 255, 255);
 }
+
